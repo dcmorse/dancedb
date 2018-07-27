@@ -1,24 +1,5 @@
-# README
+# You took a wrong turn!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You probably want (contradb)[https://github.com/contradb/contra].
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repo is an imitation of contradb built in 10 minutes for a talk I gave. 
